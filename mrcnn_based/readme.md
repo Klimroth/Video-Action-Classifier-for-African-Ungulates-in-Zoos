@@ -2,6 +2,8 @@
 
 We present the code of the deep learning prediction pipeline from the paper **Deep Learning based evaluation of the nightly behaviour of African ungulates in zoos** by  *Max Hahn-Klimroth, Tobias Kapetanopoulos, Jennifer Gübert and Paul Wilhelm Dierkes*. 
 
+Detailed instructions on how to use the code are given in **Readme.pdf**.
+
 We explicitely invite all researchers to use and modify the code or parts of it, if you do so, please cite this github-repository as (BibTex):
 
 >@misc{ActionClassifierUngulates_2020,\

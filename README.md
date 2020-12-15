@@ -5,7 +5,7 @@ The subfolder *mrcnn_based* of this repository contains the code of the deep lea
 
 A short readme file is included as a PDF. 
 
-We explicitely invite all researchers to use and modify the code or parts of it, if you do so, please cite this github-repository as (BibTex):
+We explicitely invite all researchers to use and modify the code or parts of it under the MIT License, if you do so, please cite this github-repository as (BibTex):
 
 >@misc{ActionClassifierUngulates_2020,\
 >   title={Video Action Classifier for African Ungulates in Zoos},\

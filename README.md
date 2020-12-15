@@ -13,5 +13,5 @@ We explicitely invite all researchers to use and modify the code or parts of it,
 >   year={2020},\
 >   publisher={Github},\
 >   journal={GitHub repository},\
->   howpublished={\url{https://github.com/Klimroth/Video-Action-Classifier-for-African-Ungulates-in-Zoos}}\
+>   howpublished={ \url{https://github.com/Klimroth/Video-Action-Classifier-for-African-Ungulates-in-Zoos} } \
 >}

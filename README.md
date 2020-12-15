@@ -9,5 +9,5 @@ We present the code as discussed in the paper in the folder *prediction_tool_mrc
 >  year={2020},
 >  publisher={Github},
 >  journal={GitHub repository},
->  howpublished={\url{https://github.com/qubvel/efficientnet}},
+>  howpublished={\url{https://github.com/Klimroth/Video-Action-Classifier-for-African-Ungulates-in-Zoos}},
 >}

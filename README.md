@@ -1,7 +1,8 @@
 # Video Action Classifier for African Ungulates in Zoos
 
-### Update 2020-12-15:
-The subfolder *mrcnn_based* of this repository contains the code of the deep learning prediction pipeline from the paper **Deep Learning based evaluation of the nightly behaviour of African ungulates in zoos** by  *Max Hahn-Klimroth, Tobias Kapetanopoulos, Jennifer Gübert and Paul Wilhelm Dierkes*. 
+The code to the deep learning system discussed in
+>  Hahn‐Klimroth, M, Kapetanopoulos, T, Gübert, J, Dierkes, PW. Deep learning‐based pose estimation for African ungulates in zoos. 
+>  Ecol Evol. 2021; 00: 1– 18. https://doi.org/10.1002/ece3.7367 
 
 A short readme file is included as a PDF. 
 

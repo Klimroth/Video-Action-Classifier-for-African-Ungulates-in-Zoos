@@ -6,13 +6,5 @@ The code to the deep learning system discussed in
 
 A short readme file is included as a PDF. 
 
-We explicitely invite all researchers to use and modify the code or parts of it under the MIT License, if you do so, please cite this github-repository as (BibTex):
+We explicitely invite all researchers to use and modify the code or parts of it under the MIT License, if you do so, please cite above's publication.
 
->@misc{ActionClassifierUngulates_2020,\
->   title={Video Action Classifier for African Ungulates in Zoos},\
->   author={Hahn-Klimroth, Max and Kapetanopoulos, Tobias and Gübert, Jennifer and Dierkes, Paul},\
->   year={2020},\
->   publisher={Github},\
->   journal={GitHub repository},\
->   howpublished={ \url{https://github.com/Klimroth/Video-Action-Classifier-for-African-Ungulates-in-Zoos} } \
->}
